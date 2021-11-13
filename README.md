@@ -35,10 +35,10 @@ My name is muzamil and you can call me muzamil. I will come up with something be
 ### Some details
 
 - 🔭 I’m currently working on **Something cool, which you may see in near/far future, probably**.
-- 🌱 I’m currently learning **A lots of stuff, which is so volatile that I can't write that here**.
+- 🌱 I’m currently learning **A lots of stuff, which is so volatile that I can't even write that here**.
 - 👯 Let's collabrate on **Hold on, Let's talk first.**
 - 🤔 I’m looking for help with **Boredom.**
-- 💬 Ask me about **My name.**
-- ⚡ Fun fact: **This page will become professional one day, hopefully, probably.**
+- 💬 Ask me about **My name!**
+- ⚡ Fun fact: **This page will become professional one day, maybe, hopefully.**
 
 ### Look at my cool projects instead 👇.
