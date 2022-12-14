@@ -29,7 +29,6 @@ My name is muzamil and you can call me muzamil. I will come up with something be
 <summary></summary>
 
 ![](https://media.giphy.com/media/XHVso7UUDSOFm9Wzsz/giphy.gif)
-[act](https://drive.google.com/drive/folders/1-hL5kPOxLuAiJ6OmRqiEgWDd39jPLTiP?usp=sharing)
   
 </details>
 
