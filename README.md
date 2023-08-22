@@ -15,9 +15,9 @@ My name is muzamil and you can call me muzamil. I will come up with something be
 
 [<img height="36" width="36" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://linkedin.com/in/muzamil-sofi/)
 &nbsp;&nbsp;
-[<img height="36" width="36" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/muzam1lsofi)
+[<img height="36" width="36" alt="GitHub" src="https://muzam1l.com/favicon.ico" />](https://muzam1l.com)
 &nbsp;&nbsp;
-[<img height="36" width="36" alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />](https://github.com/muzam1l)
+[<img height="36" width="36" alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/muzam1lsofi)
 &nbsp;&nbsp;
 
 ### Really get in touch
