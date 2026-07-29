@@ -6,4 +6,4 @@ The real intro lives at **[muzam1l.com](https://muzam1l.com)**.
 
 [twitter](https://twitter.com/muzam1lsofi) · [email](mailto:muzamilsofi@outlook.com) · [linkedin](https://linkedin.com/in/muzamil-sofi)
 
-Cool projects below 👇
+Cool stuff below 👇
